@@ -1,4 +1,5 @@
-readme.md
+README.md
+------------------
 McKenna L. Branting
 -------------------
 Included:
